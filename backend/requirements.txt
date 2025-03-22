@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+supabase>=1.0.3
+pydantic==2.4.2
+pyppeteer==1.0.2
+PyMuPDF==1.23.7
+python-multipart==0.0.6
+groq==0.4.2
+pytest==7.4.3
+httpx>=0.24.0
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1 
